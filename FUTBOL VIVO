@@ -1,11 +1,4 @@
-
 #EXTM3U
-
-
-
-
-
-
 
 
 
@@ -20,9 +13,6 @@ https://6ee65a057321.us-east-1.playback.live-video.net/api/video/v1/us-east-1.73
 https://c6949c1098c7.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.730335364024.channel.vZpZFJ3iUT6w.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=""group-title=""FUTBOL VIVO
-https://raw.githubusercontent.com/linkarg13/DEPORTE/main/FUTBOL%20VIVO
 
 
 #EXTINF:-1 tvg-logo=""group-title="",Paraguay vs Brasil
