@@ -9,19 +9,20 @@ https://fc50fadff240.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.73
 https://6ee65a057321.us-east-1.playback.live-video.net/api/video/v1/us-east-1.730335364024.channel.n6iBc6y9270z.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="",3
-https://c6949c1098c7.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.730335364024.channel.vZpZFJ3iUT6w.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",italia vs suiza
+https://344646a07066.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.730335364024.channel.CWttQaG69L1P.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="",BEIN SPORT XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="",2
-https://4274ceb84a9d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.730335364024.channel.f9GsozjYGsWk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",italia vs suiza
+https://c6949c1098c7.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.730335364024.channel.TPjJr9O9LZkI.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="",3
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",italia vs suiza
+https://344646a07066.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.730335364024.channel.CWttQaG69L1P.m3u8
 
 
 #EXTINF:-1 group-title="", D SPORTS+ AR
