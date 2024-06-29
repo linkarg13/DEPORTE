@@ -22,4 +22,36 @@ http://e10.cdnfree.cloud:2052/free10/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://e10.cdnfree.cloud:2052/free10/061/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6NDM6NTIgQU0maGFzaF92YWx1ZT1YK2J4dENveUJ6ZXJmMjhBdXVwcDNBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
+-----------HBO--------------
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO
+http://e10.cdnfree.cloud:2052/free10/066/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjA3OjA5IEFNJmhhc2hfdmFsdWU9dFYvK0tHaWNadnlrdVVLMWYrOWsrQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO family
+http://e10.cdnfree.cloud:2052/free10/067/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjA3OjUwIEFNJmhhc2hfdmFsdWU9T3VrVEh4ME52bGZURVNGVmF5ZXZqUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO plus
+http://e10.cdnfree.cloud:2052/free10/068/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjEwOjAyIEFNJmhhc2hfdmFsdWU9YnhEaTN2SzJBbWtkd25BaXJoZHZtQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO signature
+http://e10.cdnfree.cloud:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjEwOjQ2IEFNJmhhc2hfdmFsdWU9KzdTQk1kRlJENVFCOG1MZEFlWXhDQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO 2
+http://e10.cdnfree.cloud:2052/free10/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjExOjIyIEFNJmhhc2hfdmFsdWU9U0NoOXI3Ky9PV1RxNFRMenZTNk1uZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO xtreme
+http://e10.cdnfree.cloud:2052/free10/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjEyOjQ2IEFNJmhhc2hfdmFsdWU9Zkc4VGllSDdLTFB2RHFWaHRCYTYvdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO 2 FHD
+http://e10.cdnfree.cloud:2052/free10/134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjEzOjI5IEFNJmhhc2hfdmFsdWU9OWhLQTBhbHl3RkV5QlZMRHR2QWQ1UT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO pop
+http://e10.cdnfree.cloud:2052/free10/172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjE0OjEwIEFNJmhhc2hfdmFsdWU9YUJhM1c2Qm9HMCtXdjRITzlXUzIzdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO mundi
+http://e10.cdnfree.cloud:2052/free10/181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjE0OjQzIEFNJmhhc2hfdmFsdWU9TUp0dDFzamJnT09RalBTZGtmdDVRUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="HBO",HBO FHD
+http://e10.cdnfree.cloud:2052/free10/233/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDEwOjE1OjI2IEFNJmhhc2hfdmFsdWU9VVZ1ZFVjRFYvWE9CSjdYNE5zczZZZz09JnZhbGlkbWludXRlcz0yNDA=
