@@ -1,0 +1,25 @@
+
+
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="PREMIUM",UNIVERSAL COMEDY
+http://e10.cdnfree.cloud:2052/free10/057/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6MDg6NDMgQU0maGFzaF92YWx1ZT1RY2VmTmV3dUp1TDB2elBKdHVOT1dnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="PREMIUM",UNIVERSAL CINEMA
+http://e10.cdnfree.cloud:2052/free10/058/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6NDA6NDQgQU0maGFzaF92YWx1ZT1sTGp0TXNKcTMzRjBYLzBYR3FGa0VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="PREMIUM",UNIVERSAL CRIME
+http://e10.cdnfree.cloud:2052/free10/059/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6NDE6NDYgQU0maGFzaF92YWx1ZT1WeHpnRjFZU2ozWUU2bkU2cVlxUnBBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="PREMIUM",UNIVERSAL PREMIERE
+http://e10.cdnfree.cloud:2052/free10/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6NDI6NTEgQU0maGFzaF92YWx1ZT03THBRalJPNTBaRlh6L2RyZUF0SXZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWvZYXx/logo.jpg"group-title="PREMIUM",UNIVERSAL REALITY
+http://e10.cdnfree.cloud:2052/free10/061/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI0IDk6NDM6NTIgQU0maGFzaF92YWx1ZT1YK2J4dENveUJ6ZXJmMjhBdXVwcDNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+
