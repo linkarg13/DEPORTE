@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="", Aegentina vs chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="", Aegentina vs peru
 https://c6949c1098c7.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.730335364024.channel.TPjJr9O9LZkI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="", Argentina vs chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="", Argentina vs peru
 https://344646a07066.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.730335364024.channel.CWttQaG69L1P.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",Argentina vs chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",Argentina vs peru
 https://fc50fadff240.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.730335364024.channel.0ed6sDSUo5Yc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",Argentina vs chile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",Argentina vs peru
 https://6ee65a057321.us-east-1.playback.live-video.net/api/video/v1/us-east-1.730335364024.channel.n6iBc6y9270z.m3u8
 
 --------
