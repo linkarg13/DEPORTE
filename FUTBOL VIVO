@@ -1,14 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDSxM0n/image.webp"group-title="",américa vs tigre
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS EXUADOR
 https://09fa234fe216.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.590183697512.channel.LuwvpAWXLhyo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDSxM0n/image.webp"group-title="",américa vs tigre
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS EXUADOR
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist_1024x576.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",mexico vs ecuador
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS ECUADOR
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist_1024x576.m3u8
 
 --------
