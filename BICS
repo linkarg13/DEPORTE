@@ -1,27 +1,21 @@
 #EXTM3U
 
-************************  28/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-***********************************************************************************************************************************************
-************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
-************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
-************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO -1 HR
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
-***** https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
-***** https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
-***** https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
@@ -32,8 +26,8 @@ http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-***** https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
@@ -74,7 +68,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", MX: VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: NUESTRA VISION
@@ -88,9 +82,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MUNDO CATOLICO
 https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 
-**************************************************************************************************************************************************************
-**************************************************************************************************************************************************************
-*************************************************************** PROPIO  **************************************************************************************
+
 
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -141,7 +133,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-***************  rasta ***************
+
 
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVERSO
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
@@ -161,8 +153,6 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERACIONAL
 http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
 
-************* pepe *******************
-
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
@@ -179,7 +169,7 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
-******************  club-tv *******************************************
+***************************
 
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
@@ -189,11 +179,7 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 
 
-*****************************************************************************************************************************************************
-*****************************************************************************************************************************************************
-******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
-******************** sports ****************
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
@@ -223,28 +209,23 @@ https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
-*****************************************************************************************************************************************************
-********************************************************  LA LIGA  **********************************************************************************
 
-***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-***** http://181.78.105.146:2000/play/a08m/index.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-***** https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-***** https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-***** https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
-***** https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
-*****************************************************************************************************************************************************
-********************************************************  PREMIER  **********************************************************************************
 
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
-***** https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-*****************************************************************************************************************************************************
-********************************************************  PARIS 2024  **********************************************************************************
+*****************************************************************************************************************************************************  **********************************************************************************
 
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 CA: TSN 1
 http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
@@ -270,7 +251,7 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 *****************************************************************************************************************************************************
-********************************************************  COPA AMERICA  *****************************************************************************
+************************************************************************************************************************************
 
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
@@ -278,8 +259,8 @@ https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-***** #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: RPC
-***** https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: RPC
+https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CR: CANAL 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA SV: CANAL 4
@@ -299,7 +280,7 @@ http://45.41.213.34:70/TSN4/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CA: TSN 3
 http://45.41.213.34:70/TSN5/index.m3u8
 
-********************  proyecto04/club-tv ***************
+*******************************
 
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA ES: M+
 http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
@@ -314,7 +295,7 @@ http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ4
 
 
 *****************************************************************************************************************************************************
-*********************************************************  DEPORTES  ********************************************************************************
+****************************************************************************************************************************************
 
 
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
