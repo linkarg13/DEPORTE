@@ -1,6 +1,167 @@
 
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1,Canal 3 KMK TV
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/187197.mp4
+#EXTINF:-1,AZTECA 7
+http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/70865.ts
+#EXTINF:-1,LA HORA PICO
+http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
+#EXTINF:-1,LA FAMILIA P.LUCHE HD
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65933.ts
+#EXTINF:-1,MR BEAN HD
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/63096.ts
+#EXTINF:-1,UNA FAMILIA DE 10
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/34966.ts
+#EXTINF:-1,LA HORA PICO
+http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
+#EXTINF:-1,EL CHAVO DEL 8
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/216295.ts
+#EXTINF:-1,LA FAMILIA PLUCHE
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107929.ts
+#EXTINF:-1,MR BEAN
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177113.ts
+#EXTINF:-1,VECINOS
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107932.ts
+#EXTINF:-1,CHESPIRITO
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/51343.ts
+#EXTINF:-1,EL CHAVO DEL 8
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/531614.ts
+#EXTINF:-1,LA HORA PICO
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107927.ts
+#EXTINF:-1,UNA FAMILIA DE 10
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107928.ts
+#EXTINF:-1,1000 MANERAS DE MORIR
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107953.ts
+#EXTINF:-1,CONTACTO EXTRANORMAL
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107955.ts
+#EXTINF:-1,EL CHAPULIN COLORADO
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/72328.ts
+#EXTINF:-1,LA FAMILIA PLUCHE
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/200378.ts
+#EXTINF:-1,NARCOS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090920.ts
+#EXTINF:-1,VECINOS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/189870.ts
+#EXTINF:-1,LA FAMILIA PELUCHE
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091010.ts
+#EXTINF:-1,LOS SIMPSONS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091013.ts
+#EXTINF:-1,EL CHAVO DEL 8
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091028.ts
+#EXTINF:-1,CHESPIRITO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090979.ts
+#EXTINF:-1,EL CHAVO DEL 8
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090975.ts
+#EXTINF:-1,CANAL 12 TIJUANA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/165131.ts
+#EXTINF:-1,MEXICALI 66
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2159384.ts
+#EXTINF:-1,EL CHAVO DEL 8
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/103841.ts
+#EXTINF:-1,CHESPIRITO
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225530.ts
+#EXTINF:-1,EL CHAVO DEL 8 1
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225537.ts
+#EXTINF:-1,FAMILIA PELUCHE TEMP 1
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/246834.ts
+#EXTINF:-1,SPARTACUS
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358974.ts
+#EXTINF:-1,CHICAGO PD
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358978.ts
+#EXTINF:-1,UNA FAMILIA DE 10
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358977.ts
+#EXTINF:-1,LOS SIMPSONS
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265628.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN F1 HD
+http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
+#EXTINF:-1 group-title="DEPORTES",COPA AMERICA DIRECTV
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/547427.ts
+#EXTINF:-1 group-title="DEPORTES",COPA AMERICA CARACOL
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/547468.ts
+#EXTINF:-1 group-title="DEPORTES",COPA AMERICA AMERICA TV
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/547470.ts
+#EXTINF:-1 group-title="DEPORTES",EUROCOPA
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/548111.ts
+#EXTINF:-1 group-title="DEPORTES",EUROCOPA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2220050.ts
+#EXTINF:-1 group-title="DEPORTES",EUROCOPA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2222252.ts
+#EXTINF:-1 group-title="DEPORTES",FUTBOL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2200802.ts
+#EXTINF:-1 group-title="DEPORTES",PELEAS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157666.ts
+#EXTINF:-1 group-title="DEPORTES",LUCHA LIBRE AAA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157655.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN FORMULA 1
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/253223.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
+#EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/90087.ts
+#EXTINF:-1 group-title="CINE",PPV CINEMA 4K
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65852.ts
+#EXTINF:-1 group-title="CINE",DC UNIVERSE
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177323.ts
+#EXTINF:-1 group-title="CINE",CINE DISNEY
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177324.ts
+#EXTINF:-1 group-title="CINE",CINE MARVEL
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177333.ts
+#EXTINF:-1 group-title="CINE",CINE DREAMWORKS
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177326.ts
+#EXTINF:-1 group-title="CINE",JUEGO DE TRONOS
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/177327.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/531617.ts
+#EXTINF:-1 group-title="CINE",PEDRO INFANTE
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107879.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://spacetvplay.com:8080/live/DanielVillalobos28/ZBDDT/107891.ts
+#EXTINF:-1 group-title="CINE",CINECANAL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10844.ts
+#EXTINF:-1 group-title="CINE",CINEMAX
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10846.ts
+#EXTINF:-1 group-title="CINE",STUDIO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10872.ts
+#EXTINF:-1 group-title="CINE",UNIVERSAL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2081448.ts
+#EXTINF:-1 group-title="CINE",PANICO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2217005.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090937.ts
+#EXTINF:-1 group-title="CINE",MARVEL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090921.ts
+#EXTINF:-1 group-title="CINE",MARVEL INFINITO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2133201.ts
+#EXTINF:-1 group-title="CINE",14
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/210821.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157659.ts
+#EXTINF:-1 group-title="CINE",TERROR
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157660.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265668.ts
+#EXTINF:-1 group-title="CINE",BRUCE LEE
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/284511.ts
+#EXTINF:-1 group-title="CINE",JACKIE CHAN
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/380786.ts
+#EXTINF:-1 group-title="CINE",ARNOLD 
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/564063.ts
+#EXTINF:-1 group-title="MUSICA",DJ TROLA MIX
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/262586.mp4
+#EXTINF:-1 group-title="MUSICA",VIDEOS
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276229.mp4
+#EXTINF:-1 group-title="MUSICA",Remix CUMBIA
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276228.mp4
+
+
+
+
 #EXTINF:-1,BABYTV
 http://179.189.222.226:16123/play/ch01
 #EXTINF:-1,DISCOVERY KIDS
