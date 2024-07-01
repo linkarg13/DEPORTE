@@ -1,14 +1,33 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS EXUADOR
-https://09fa234fe216.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.590183697512.channel.LuwvpAWXLhyo.m3u8
+ M
+#EXTINF:-1 tvg-logo=""group-title="",Jamaica vs Venezuela
+https://a89ad9ad8b80.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.211125334782.channel.7s9PEQGkeQfN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS EXUADOR
+
+#EXTINF:-1 tvg-logo=""group-title="",Jamaica vs Venezuela 
+https://e096c6620133.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.211125334782.channel.tHS39qKcpYqU.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="",Jamaica vs Venezuela
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mYbYxn/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="",MEXICO VS ECUADOR
-https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",México vs ecuador
+https://3fba5a05af81.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.590183697512.channel.HEmDLMrpUNw5.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="",México vs ecuador
+https://789fe5f89007.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.590183697512.channel.GbrldbXF196P.m3u8
+
+
+
+
+
+
+
+
 
 --------
 
