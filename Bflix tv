@@ -128,6 +128,28 @@ http://179.189.222.226:16123/play/ch65
 #EXTINF:-1,TELEPACIFICO
 http://179.189.222.226:16123/play/ch66
 #EXTINF:-1,TELECAFE
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="",anime
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="",Cartoon retro
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
+
+
 http://179.189.222.226:16123/play/ch67
 #EXTINF:-1,TRO
 http://179.189.222.226:16123/play/ch68
