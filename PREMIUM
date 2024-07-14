@@ -1,48 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO", perañol vs river
-https://40.tiofutbol.com/lb/vtvplus/index.m3u8?token=e47e73f5fd5d3b2cb4696ff7b73fa0a71ff340fa-e213d979dd415992845fed005d9bdc51-1720980528-1720969728&remote=181.16.121.245
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO",perañol vs river
-https://43.tiofutbol.com/vtvplus/tracks-v1a1/mono.m3u8?remote=181.16.121.245&token=e47e73f5fd5d3b2cb4696ff7b73fa0a71ff340fa-e213d979dd415992845fed005d9bdc51-1720980528-1720969728
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO",perañol vs river
-https://7.tiofutbol.com:443/vtvplus/tracks-v1a1/mono.m3u8?remote=181.16.121.245&token=30410d5a520a2744702017c04936549a83154baf-edecc0758fa560a4b2b05ee07663d74c-1720980591-1720969791
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO",perañol vs river
-https://7.tiofutbol.com/vtvplus/tracks-v1a1/mono.m3u8?remote=181.16.121.245&token=30410d5a520a2744702017c04936549a83154baf-edecc0758fa560a4b2b05ee07663d74c-1720980591-1720969791
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO",wanderers vs progreso
-https://d1.dramaticreadings.com:999/hls/wsmkmlfeed119.m3u8?md5=VcKoY9u8egu5R2fZPNRChw&expires=1720978506
-#EXTINF:-1 tvg-logo=""group-title="CAMPEONATO URUGUAYO",wanderers vs progreso
-https://d1.dramaticreadings.com:999/hls/wsmkmlfeed119.m3u8?md5=9WKcQ6G-4zcgTCT-Bup0Gg&expires=1720978476
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://pl4.dramaticreadings.com:999/hls/wsmkmlfeed123.m3u8?md5=fTo5IEJ77oJPO8Hvqhsszw&expires=1720977488
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://pl1.dramaticreadings.com:999/hls/wsmkmlfeed123.m3u8?md5=rgxJ-5JaQfpv4AEivcCGig&expires=1720977639
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://pl1.dramaticreadings.com:999/hls/wsmkmlfeed123.m3u8?md5=L3EPbR5EpxDtjdbuTS9AmQ&expires=1720977672
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://n1.dramaticreadings.com:999/hls/espn1hd.m3u8?md5=5XV42UUtXlxnfxQ65k8DUA&expires=1720977751
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://n3.dramaticreadings.com:999/hls/espn1hd.m3u8?md5=YbipLRULXM8NdM6GEzZQtw&expires=1720977781
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://7f6335dfeb2a39.paltrypaste.com/hls/ced945ae85b83edb-e74dfb246aacd780d65a99e0c8be39f010ec4d34c32dd2f0b5c3d356c4db3b11/live.m3u8
-#EXTINF:-1 tvg-logo=""group-title="EUROCOPA",ESPAÑA vs INGRATERRA
-https://n4.dramaticreadings.com:999/hls/chiletv.m3u8?md5=Ur-xuKbAXwUhLj5OXEJenA&expires=1720978260
-#EXTINF:-1 tvg-logo=""group-title="COPA CHILE",Cobresal vs coquimbo
-https://n3.dramaticreadings.com:999/hls/chiletv.m3u8?md5=Ag_uY5QPY8CoMPOq2FtCLw&expires=1720978177
-#EXTINF:-1 tvg-logo=""group-title="COPA CHILE",Cobresal vs coquimbo
-https://n1.dramaticreadings.com:999/hls/chiletv.m3u8?md5=iwihlr4_Trn1TSjnXxaxTg&expires=1720978308
-#EXTINF:-1 tvg-logo=""group-title="COPA CHILE",universidad vs everton
-https://n4.dramaticreadings.com:999/hls/chiletv.m3u8?md5=0aTSeYYPH0NGa2lg1fMLCg&expires=1720978801
-#EXTINF:-1 tvg-logo=""group-title="COPA CHILE",universidad vs everton
-https://n4.dramaticreadings.com:999/hls/chiletv.m3u8?md5=iZ9abiCqdlw90aha9fyomw&expires=1720978738
-#EXTINF:-1 tvg-logo=""group-title="COPA CHILE",Cobresal vs coquimbo
-https://n3.dramaticreadings.com:999/hls/chiletv.m3u8?md5=2-VHOa2R2MX9V3IPHbNcGw&expires=1720978355
-#EXTINF:-1 tvg-logo=""group-title="LIGA 1",cusco vs melgar
-https://n1.dramaticreadings.com:999/hls/golperusd1.m3u8?md5=VKqfonKtpxHWCinKjBRGwQ&expires=1720978614
-#EXTINF:-1 tvg-logo=""group-title="LIGA 1",Cusco vs melgar
-https://n1.dramaticreadings.com:999/hls/golperusd1.m3u8?md5=ZLNAREFvaJo58sZRulg5Ow&expires=1720978654
-
-
+#EXTINF:-1 tvg-logo=""group-title="",copa america
+https://b83ec97cc918.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.211125342678.channel.98pKDj8YwC3y.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",copa america
+https://b83ec97cc918.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.211125342678.channel.98pKDj8YwC3y.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",EURO24
 https://6331298ed1fe.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.211125342678.channel.3GuzwIU2IpA3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",EURO24
