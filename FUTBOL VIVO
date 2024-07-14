@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo=""group-title="", Uruguay vs canada
+http://cdn1502.opentraffic.live:2052/free15/270/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDEyOjA0OjI0IEFNJmhhc2hfdmFsdWU9LzJCN2hVVGw2QW93NXV6ajZCT1E2UT09JnZhbGlkbWludXRlcz0yNDA=
+
+
 #EXTINF:-1 tvg-logo=""group-title="",uruguay vs canada
 https://server2.betzta.com/eventos2/tracks-v1a1/mono.m3u8?remote=190.48.4.245&token=3efce8ab1f31ffbf1c43161f96d5ebcce7a2f88a-55c4bb13a55b9cd62397c3ff665e8c71-1720924800-1720914000
 
