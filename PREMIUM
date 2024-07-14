@@ -36,6 +36,7 @@ https://n4.dramaticreadings.com:999/hls/chiletv.m3u8?md5=0aTSeYYPH0NGa2lg1fMLCg&
 #EXTINF:-1 tvg-logo=""group-title="COPA CHILE",universidad vs everton
 https://n4.dramaticreadings.com:999/hls/chiletv.m3u8?md5=iZ9abiCqdlw90aha9fyomw&expires=1720978738
 #EXTINF:-1 tvg-logo=""group-title="COPA CHILE",Cobresal vs coquimbo
+
 https://n3.dramaticreadings.com:999/hls/chiletv.m3u8?md5=2-VHOa2R2MX9V3IPHbNcGw&expires=1720978355
 #EXTINF:-1 tvg-logo=""group-title="LIGA 1",cusco vs melgar
 https://n1.dramaticreadings.com:999/hls/golperusd1.m3u8?md5=VKqfonKtpxHWCinKjBRGwQ&expires=1720978614
@@ -43,4 +44,29 @@ https://n1.dramaticreadings.com:999/hls/golperusd1.m3u8?md5=VKqfonKtpxHWCinKjBRG
 https://n1.dramaticreadings.com:999/hls/golperusd1.m3u8?md5=ZLNAREFvaJo58sZRulg5Ow&expires=1720978654
 
 
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+http://cdn1502.opentraffic.live:2052/free15/314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDQ6MDI6MTcgUE0maGFzaF92YWx1ZT1veWZaWCsvc2pBdWsyNkpPRHR5MFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+http://cdn1502.opentraffic.live:2052/free15/314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDQ6MDI6MTcgUE0maGFzaF92YWx1ZT1veWZaWCsvc2pBdWsyNkpPRHR5MFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+http://cdn1502.opentraffic.live:2052/free15/314/chunks.m3u8?nimblesessionid=13439810&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDQ6MDI6MTcgUE0maGFzaF92YWx1ZT1veWZaWCsvc2pBdWsyNkpPRHR5MFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+http://cdn1502.opentraffic.live:2052/free15/314/chunks.m3u8?nimblesessionid=13439818&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDQ6MDI6MTcgUE0maGFzaF92YWx1ZT1veWZaWCsvc2pBdWsyNkpPRHR5MFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+
+#EXTINF:-1 tvg-logo=""group-title="",EURO24
+
+
+
+
+
+
+
+
+
+
+
+.
 
