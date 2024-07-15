@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="",telefe santa fe
 https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3u8?hdnea=st=1720995696~exp=1721172096~acl=/hls/live/2033413/canal13santafe/TOK/*~hmac=405e88629fcb4251998436eb1b564c0418f1f5d223319205ca5dd9cd18e581db
+#EXTINF:-1 tvg-logo=""group-title="",CANAL 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 1
