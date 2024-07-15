@@ -1,25 +1,27 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo=""group-title="",copa america
-https://b83ec97cc918.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.211125342678.channel.98pKDj8YwC3y.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",copa america
-https://b83ec97cc918.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.211125342678.channel.98pKDj8YwC3y.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",720p
-https://telefecanal1.akamaized.net:443/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1721085793~acl=%2f*~data=hdntl~hmac=4f754fab40adfb998090213e11f94c03cf75724a0114463479bc0a2ec7d6b711/master0.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",adaptive
+#EXTINF:-1 tvg-logo=""group-title="",telefe santa fe
 https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3u8?hdnea=st=1720995696~exp=1721172096~acl=/hls/live/2033413/canal13santafe/TOK/*~hmac=405e88629fcb4251998436eb1b564c0418f1f5d223319205ca5dd9cd18e581db
-#EXTINF:-1 tvg-logo=""group-title="",EURO24
-https://6331298ed1fe.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.211125342678.channel.3GuzwIU2IpA3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",EURO24
-https://6331298ed1fe.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.211125342678.channel.3GuzwIU2IpA3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",EURO24
-https://1023e241260a.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.211125342678.channel.eGlgaAWK7SZn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",EURO24
-http://cdn1502.opentraffic.live:2052/free15/314/chunks.m3u8?nimblesessionid=13439818&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI0IDQ6MDI6MTcgUE0maGFzaF92YWx1ZT1veWZaWCsvc2pBdWsyNkpPRHR5MFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
+#EXTINF:-1 tvg-logo=""group-title="",sala 1
+http://66.228.55.114:8081/home/education.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",sala 2
+http://66.228.55.114:8081/home/education.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",sala 3
+http://66.228.55.114:8081/home/education.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",sala 4
+http://66.228.55.114:8081/home/education.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",sala 5
 
+#EXTINF:-1 tvg-logo=""group-title="",sala 6
+
+#EXTINF:-1 tvg-logo=""group-title="",sala 7
+
+#EXTINF:-1 tvg-logo=""group-title="",sala 8
+
+#EXTINF:-1 tvg-logo=""group-title="",sala 9
 
 
 
@@ -28,4 +30,3 @@ http://cdn1502.opentraffic.live:2052/free15/314/chunks.m3u8?nimblesessionid=1343
 
 
 .
-
