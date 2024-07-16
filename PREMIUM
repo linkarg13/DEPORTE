@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo=""group-title="",caracol
+http://172.105.6.199:8081/app/caracol1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="",RCN
+http://172.105.6.199:8081/app/rcn1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",telefe santa fe
 https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3u8?hdnea=st=1720995696~exp=1721172096~acl=/hls/live/2033413/canal13santafe/TOK/*~hmac=405e88629fcb4251998436eb1b564c0418f1f5d223319205ca5dd9cd18e581db
 #EXTINF:-1 tvg-logo=""group-title="",CANAL 57
