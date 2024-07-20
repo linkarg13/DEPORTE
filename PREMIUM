@@ -12,18 +12,17 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 1
-
+http://172.105.6.199:8081/app/ms1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",sala 2
-
+http://172.105.6.199:8081/app/ms1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",sala 3
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 4
-https://55207.pricesaskeloadsc.com:443/eventos2/tracks-v1a1/mono.m3u8?token=d266f0bc3fe66d48086ad80ac57e05269d2ccae6-f6-1721299469-1721245469
+
 #EXTINF:-1 tvg-logo=""group-title="",sala 5
-https://ayoongee7een3e.hopehouse.mov/hls/a08dab7493589ddf-75ae3d1307d7dac4168eeaf700c76a9e15ee22d68a20879c2b6f3c493669346e/live.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 6
-https://39.tiofutbol.com/lb/espn/index.m3u8?token=8c74ebd5dcf8ef346b75ff1b4cf6bbe7cfbf4de3-3086ed95d0492286fa9d089ba0e7a9b8-1721272564-1721261764&remote=181.9.130.18
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 7
 https://39.tiofutbol.com/lb/espn/index.m3u8?token=8c74ebd5dcf8ef346b75ff1b4cf6bbe7cfbf4de3-3086ed95d0492286fa9d089ba0e7a9b8-1721272564-1721261764&remote=181.9.130.18
