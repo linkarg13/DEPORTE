@@ -12,9 +12,9 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 1
-http://172.105.20.250:8081/app/f1/playlist.m3u8
+https://93d0cb0c4902.us-west-2.playback.live-video.net/api/video/v1/us-west-2.009160076166.channel.HItHmVIy03uZ.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",sala 2
-http://172.105.20.250:8081/app/f1/chunks.m3u8?nimblesessionid=9228
+
 #EXTINF:-1 tvg-logo=""group-title="",sala 3
 
 #EXTINF:-1 tvg-logo=""group-title="",sala 4
