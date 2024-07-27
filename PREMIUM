@@ -11,17 +11,17 @@ https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="",sala 1
-
-#EXTINF:-1 tvg-logo=""group-title="",sala 2
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 1
+https://7c79f3c9851e.us-west-2.playback.live-video.net/api/video/v1/us-west-2.010438506109.channel.uBEczZwrkxgR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 2
+https://video-weaver.bue01.hls.live-video.net/v1/playlist/CrgFlNMIfJyuGyuwT7B3iaO6VKSHuaLBsDc9NnyRRgQrjwYmUyZCFLtH5APMaBVVObEnU80W9CokeDWrjAUPZitKw7_p87Sk-VAAnMD3Fe_RYFT0tsEVpfoGK8GhONr4hCba_2CIBo1b6XOt2CZJVP3wcLFgdxMmIqfoTcaaXzMgwPDYMtE3lMeWiKSLOyED0FbsEDUkTzXgGWPplGw8Tu17UYtlv6EwgQ1qrwccOPbuTg39USxjBHy-WaNRWN6w4LqfZ4ykfa1SSstDWn8kMQg7IxZ91zRctVTuACt6ZwYn4nH7MXQAQYAqGXX952eIvupkqs9VMfXnWOTdKNqEnAL5YNJQTb4bOLihp17qWxhu_UyWxdYohne-yW8VBO3byj-raOrfH8QU7vrltLYO-0UPcve-ovsJOvOoJr0rEz_Ikb-UKeEkcbpXbRcucfB0J8IdEidjBJf_uMWjQIzrbc1BOkz4nRejkmHcvjyig7SCabtTisu7LEmx-gwWKi0hJxwTga2Qmpgn96Do44pkVyQfSDtzAG99HcIJyM9_ZL8nm4HO4OoipEImQ0XBfuACo8brHZMv8WWEpYsDOxmbN1h5SolTBER5mmVrDncjdWuWEuNPtOyI7lVKIGT8gUujJ-ORcmgEpAVU-nNNzRtuxMmoYkEP3C0-li2HndiF4MIth9ohZI2JyTH1V74PguatBR9pAgrhqYi0rX5Ot9mi_HCk9OOzYg9U4Ox5WfIvkC2l-C2EUnFq9ggRXQ90YMjVgFwblbTCMlqLY4qSszSzuGTozEpkzry9kkLewI9ERbOv0DY7U5fekq-pyMZaTEHiNOczcpnQOBvj3EpwM16TZ8ILCziAofWkkrqdXuAnLmy_q9jayMW2ukkYoY5X-rwpzC7U4azIw8TicvPTlGhUExlODbS3vvsWz_2zGgwnXnb-WUkYUm5znmMgASoJdXMtZWFzdC0xMLUI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 3
 https://g3.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 4
 https://g3.vxral-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",sala 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 5
 
-#EXTINF:-1 tvg-logo=""group-title="",sala 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTZw2Sf/Sz-Ch9-Te-OJ-600x600-1.jpg"group-title="",sala 7
 https://zmfzda.la10tv.com/lb/clarosports4/index.m3u8?token=1da8204368399e0a76a48a90bc824dd97e0bfe69-0b31607ffad534230f198176b9c683b8-1722118848-1722082848&remote=179.36.55.213
