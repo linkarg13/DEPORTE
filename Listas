@@ -9,8 +9,8 @@ http://clubtv.link/fin31/24.m3u
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM",premium 
 http://clubtv.link/fin31/lista.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM 1",premium 1
-
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM 1",lista CL
+https://m3u.cl/lista/total.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 2
 
