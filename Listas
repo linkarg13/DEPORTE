@@ -12,8 +12,8 @@ http://clubtv.link/fin31/lista.m3u
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM 1",lista CL
 https://m3u.cl/lista/total.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",premium 2
-
+#EXTINF:-1 tvg-logo=""group-title="",TOP CL
+https://m3u.cl/lista/top.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 3
 
