@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="",LISTA 1
+#EXTINF:-1 tvg-logo=""group-title="LISTA 1",LISTA 1
 https://archive.org/download/lista-1_202408/lista%201.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",24/7
+#EXTINF:-1 tvg-logo=""group-title="24/7",24/7
 http://clubtv.link/fin31/24.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",premium 
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM",premium 
 http://clubtv.link/fin31/lista.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",premium 1
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM 1",premium 1
 http://clubtv.link/fin31/lista1.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 2
