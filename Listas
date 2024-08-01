@@ -22,7 +22,7 @@ http://clubtv.link/fin31/peliculas.m3u
 http://clubtv.link/fin31/geomex.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",prueba 
-http://wolf.lobito-up.in:8880/get.php?username=antoro&password=_091122&type=m3u_plus&output=m3u8
+https://archive.org/download/prueb1/prueb1.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 6
 
