@@ -18,8 +18,8 @@ https://m3u.cl/lista/top.m3u
 #EXTINF:-1 tvg-logo=""group-title="",peliculas
 http://clubtv.link/fin31/peliculas.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",premium 4
-
+#EXTINF:-1 tvg-logo=""group-title="",solo mexico
+http://clubtv.link/fin31/geomex.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 5
 
