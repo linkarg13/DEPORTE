@@ -27,15 +27,20 @@ https://archive.org/download/prueb1/prueb1.m3u
 #EXTINF:-1 tvg-logo=""group-title="",tokIo plus
 https://bit.ly/4dtAOuR
 
-
-#EXTINF:-1 tvg-logo=""group-title="",premium 7
-
+#EXTINF:-1 tvg-logo=""group-title="",ATR
+https://archive.org/download/prueba_202408/prueba.m3u
 
 #EXTINF:-1 tvg-logo=""group-title="",premium 8
 
 
 #EXTINF:-1 tvg-logo=""group-title="",HOT
 http://clubtv.link/fin31/listahot.m3u
+
+
+
+
+
+....
 
 
 
